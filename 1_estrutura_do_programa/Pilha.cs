@@ -15,7 +15,7 @@ namespace _1_estrutura_do_programa
         {
             if(primeiro==null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("A pilha está vazia!");
             }
 
             object resultado=primeiro.item;
