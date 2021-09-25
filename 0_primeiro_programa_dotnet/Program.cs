@@ -11,7 +11,6 @@ namespace _0_primeiro_programa_dotnet
             for(int i=0;i<numVezes;i++){
                 Console.WriteLine($"Bem-vindo ao curso de .NET {i}");
             }
-            
         }
     }
 }
