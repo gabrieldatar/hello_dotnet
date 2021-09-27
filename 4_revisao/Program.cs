@@ -7,21 +7,23 @@ namespace _4_revisao
 
         private static string ObterOpcaoUsuario()
         {
+            Console.WriteLine("\n");
             Console.WriteLine("Informe a opção desejada: ");
             Console.WriteLine("1- Inserir novo aluno.");
             Console.WriteLine("2- Listar alunos.");
             Console.WriteLine("3- Calcular média geral.");
             Console.WriteLine("X- Sair.");
             Console.Write("Opção: ");
-            Console.WriteLine();
 
             string opcaoUsuario=Console.ReadLine();
-            Console.WriteLine();
+            Console.WriteLine("-----------------------------");
             return opcaoUsuario;
         }
 
         static void Main(string[] args)
         {
+            Aluno[]alunos=new Aluno[5];
+            int indiceAluno=0;
             string opcaoUsuario=ObterOpcaoUsuario();
             
             while(opcaoUsuario.ToUpper()!= "X")
@@ -29,13 +31,49 @@ namespace _4_revisao
                 switch(opcaoUsuario)
                 {
                     case "1":
-                        // -adicionar aluno
+                        Console.Write("Informe o nome do aluno: ");
+                        Aluno aluno=new Aluno();
+                        aluno.Nome=Console.ReadLine();
+
+                        Console.Write("Informe o nota do aluno: ");
+                        if(decimal.TryParse(Console.ReadLine(),out decimal nota))
+                        {
+                            aluno.Nota=nota;
+                        }
+                        else
+                        {
+                            throw new ArgumentException("Valor da nota deve ser decimal");
+                        }
+
+                        alunos[indiceAluno]=aluno;
+
+                        indiceAluno++;
+
                         break;
                     case "2":
-                        // listar aluno
+                        foreach(var aln in alunos)
+                        {
+                            if(aln.Nome!=null)
+                            {
+                                Console.WriteLine($"ALUNO: {aln.Nome} - NOTA: {aln.Nota}");
+                            }
+                        }
                         break;
                     case "3":
-                        // calcular a media geral
+                        decimal notaTotal=0;
+                        int  numAlunos=0;
+
+                        for(int i=0;i<alunos.Length;i++)
+                        {
+                            if(!string.IsNullOrEmpty(alunos[i].Nome))
+                            {
+                                notaTotal=notaTotal+alunos[i].Nota;
+                                numAlunos++;
+                            }
+                        }
+
+                        Console.WriteLine($"MÉDIA GERAL: {notaTotal/numAlunos}");
+                        
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
