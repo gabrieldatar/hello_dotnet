@@ -1,7 +1,30 @@
 namespace _6_cadastro_em_memória
 {
-    public class Serie
+    public class Serie:EntidadeBase
     {
-        
+        // Atributos
+        private Genero Genero
+        {
+            get;
+            set;
+        }
+
+        private string Titulo
+        {
+            get;
+            set;
+        }
+
+        private string Descricao
+        {
+            get;
+            set;
+        }
+
+        private int Ano
+        {
+            get;
+            set;
+        }
     }
 }
