@@ -1,7 +1,25 @@
+using System;
+
 namespace _6_cadastro_em_memória
 {
     public class Serie:EntidadeBase
     {
+
+        // Construtor
+        public void Init(int id,Genero genero, string titulo, string descricao, int ano)
+        {
+            new Serie(id, genero, titulo, descricao, ano);
+        }
+
+        private Serie(int id,Genero genero, string titulo, string descricao, int ano)
+        {
+            this.Id=id;
+            this.Genero=genero;
+            this.Titulo=titulo;
+            this.Descricao=descricao;
+            this.Ano=ano;
+        }
+
         // Atributos
         private Genero Genero
         {
@@ -25,6 +43,27 @@ namespace _6_cadastro_em_memória
         {
             get;
             set;
+        }
+
+        // Métodos
+        public override string ToString()
+        {
+            string retorno="";
+            retorno+="Gênero: "+this.Genero+Environment.NewLine;
+            retorno+="Título: "+this.Titulo+Environment.NewLine;
+            retorno+="Descrição: "+this.Descricao+Environment.NewLine;
+            retorno+="Ano de Início "+this.Ano;
+            return base.ToString();
+        }
+
+        public string getTitulo()
+        {
+            return this.Titulo;
+        }
+
+        public int getId()
+        {
+            return this.Id;
         }
     }
 }
