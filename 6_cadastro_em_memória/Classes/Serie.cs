@@ -76,6 +76,11 @@ namespace _6_cadastro_em_memória
             return this.Id;
         }
 
+        public bool getExcluido()
+        {
+            return this.Excluido;
+        }
+
         public void setExcluir()
         {
             this.Excluido=true;
