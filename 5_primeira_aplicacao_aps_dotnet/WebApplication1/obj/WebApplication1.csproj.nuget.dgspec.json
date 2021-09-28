@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Workplace\\hello_dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Workplace\\hello_dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Workplace\\hello_dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\Workspace\\dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\gabriel.quirino\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Workplace\\hello_dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\grodr\\.nuget\\packages\\",
+        "outputPath": "C:\\Workplace\\hello_dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabriel.quirino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grodr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,8 +25,8 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Users\\gabriel.quirino\\Downloads": {},
-          "https://packagesource": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -44,9 +44,19 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "NuGet.Frameworks": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [

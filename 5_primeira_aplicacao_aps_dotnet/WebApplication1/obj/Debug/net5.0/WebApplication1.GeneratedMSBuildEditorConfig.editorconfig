@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = d:\Workspace\dotnet\5_primeira_aplicacao_aps_dotnet\WebApplication1\
+build_property.ProjectDir = C:\Workplace\hello_dotnet\5_primeira_aplicacao_aps_dotnet\WebApplication1\
