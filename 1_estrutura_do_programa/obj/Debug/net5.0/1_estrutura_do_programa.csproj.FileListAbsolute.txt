@@ -1,0 +1,16 @@
+D:\Workspace\dotnet\1_estrutura_do_programa\bin\Debug\net5.0\1_estrutura_do_programa.exe
+D:\Workspace\dotnet\1_estrutura_do_programa\bin\Debug\net5.0\1_estrutura_do_programa.deps.json
+D:\Workspace\dotnet\1_estrutura_do_programa\bin\Debug\net5.0\1_estrutura_do_programa.runtimeconfig.json
+D:\Workspace\dotnet\1_estrutura_do_programa\bin\Debug\net5.0\1_estrutura_do_programa.runtimeconfig.dev.json
+D:\Workspace\dotnet\1_estrutura_do_programa\bin\Debug\net5.0\1_estrutura_do_programa.dll
+D:\Workspace\dotnet\1_estrutura_do_programa\bin\Debug\net5.0\ref\1_estrutura_do_programa.dll
+D:\Workspace\dotnet\1_estrutura_do_programa\bin\Debug\net5.0\1_estrutura_do_programa.pdb
+D:\Workspace\dotnet\1_estrutura_do_programa\obj\Debug\net5.0\1_estrutura_do_programa.csproj.AssemblyReference.cache
+D:\Workspace\dotnet\1_estrutura_do_programa\obj\Debug\net5.0\1_estrutura_do_programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\dotnet\1_estrutura_do_programa\obj\Debug\net5.0\1_estrutura_do_programa.AssemblyInfoInputs.cache
+D:\Workspace\dotnet\1_estrutura_do_programa\obj\Debug\net5.0\1_estrutura_do_programa.AssemblyInfo.cs
+D:\Workspace\dotnet\1_estrutura_do_programa\obj\Debug\net5.0\1_estrutura_do_programa.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet\1_estrutura_do_programa\obj\Debug\net5.0\1_estrutura_do_programa.dll
+D:\Workspace\dotnet\1_estrutura_do_programa\obj\Debug\net5.0\ref\1_estrutura_do_programa.dll
+D:\Workspace\dotnet\1_estrutura_do_programa\obj\Debug\net5.0\1_estrutura_do_programa.pdb
+D:\Workspace\dotnet\1_estrutura_do_programa\obj\Debug\net5.0\1_estrutura_do_programa.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Workspace\dotnet\4_revisao\bin\Debug\net5.0\4_revisao.exe
+D:\Workspace\dotnet\4_revisao\bin\Debug\net5.0\4_revisao.deps.json
+D:\Workspace\dotnet\4_revisao\bin\Debug\net5.0\4_revisao.runtimeconfig.json
+D:\Workspace\dotnet\4_revisao\bin\Debug\net5.0\4_revisao.runtimeconfig.dev.json
+D:\Workspace\dotnet\4_revisao\bin\Debug\net5.0\4_revisao.dll
+D:\Workspace\dotnet\4_revisao\bin\Debug\net5.0\ref\4_revisao.dll
+D:\Workspace\dotnet\4_revisao\bin\Debug\net5.0\4_revisao.pdb
+D:\Workspace\dotnet\4_revisao\obj\Debug\net5.0\4_revisao.csproj.AssemblyReference.cache
+D:\Workspace\dotnet\4_revisao\obj\Debug\net5.0\4_revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\dotnet\4_revisao\obj\Debug\net5.0\4_revisao.AssemblyInfoInputs.cache
+D:\Workspace\dotnet\4_revisao\obj\Debug\net5.0\4_revisao.AssemblyInfo.cs
+D:\Workspace\dotnet\4_revisao\obj\Debug\net5.0\4_revisao.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet\4_revisao\obj\Debug\net5.0\4_revisao.dll
+D:\Workspace\dotnet\4_revisao\obj\Debug\net5.0\ref\4_revisao.dll
+D:\Workspace\dotnet\4_revisao\obj\Debug\net5.0\4_revisao.pdb
+D:\Workspace\dotnet\4_revisao\obj\Debug\net5.0\4_revisao.genruntimeconfig.cache

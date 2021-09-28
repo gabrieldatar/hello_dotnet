@@ -1,0 +1,16 @@
+D:\Workspace\dotnet\3_classes\bin\Debug\net5.0\3_classes.exe
+D:\Workspace\dotnet\3_classes\bin\Debug\net5.0\3_classes.deps.json
+D:\Workspace\dotnet\3_classes\bin\Debug\net5.0\3_classes.runtimeconfig.json
+D:\Workspace\dotnet\3_classes\bin\Debug\net5.0\3_classes.runtimeconfig.dev.json
+D:\Workspace\dotnet\3_classes\bin\Debug\net5.0\3_classes.dll
+D:\Workspace\dotnet\3_classes\bin\Debug\net5.0\ref\3_classes.dll
+D:\Workspace\dotnet\3_classes\bin\Debug\net5.0\3_classes.pdb
+D:\Workspace\dotnet\3_classes\obj\Debug\net5.0\3_classes.csproj.AssemblyReference.cache
+D:\Workspace\dotnet\3_classes\obj\Debug\net5.0\3_classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\dotnet\3_classes\obj\Debug\net5.0\3_classes.AssemblyInfoInputs.cache
+D:\Workspace\dotnet\3_classes\obj\Debug\net5.0\3_classes.AssemblyInfo.cs
+D:\Workspace\dotnet\3_classes\obj\Debug\net5.0\3_classes.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet\3_classes\obj\Debug\net5.0\3_classes.dll
+D:\Workspace\dotnet\3_classes\obj\Debug\net5.0\ref\3_classes.dll
+D:\Workspace\dotnet\3_classes\obj\Debug\net5.0\3_classes.pdb
+D:\Workspace\dotnet\3_classes\obj\Debug\net5.0\3_classes.genruntimeconfig.cache

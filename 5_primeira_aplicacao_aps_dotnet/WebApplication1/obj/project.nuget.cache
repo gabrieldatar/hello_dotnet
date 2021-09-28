@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FpVQAakDhPe4f0GXMIjZ0o6yOC68+g03xrwlMp1WK7WMSq6JrElSVarFjGkKDAZaX/DHTOea/VNrxnoeKbV5Mw==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\dotnet\\5_primeira_aplicacao_aps_dotnet\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.quirino\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

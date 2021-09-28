@@ -87,7 +87,7 @@ namespace _6_cadastro_em_memória
             Console.WriteLine("Série inserida.");
         }
 
-        private static void AlualizarSerie()
+        private static void AtualizarSerie()
         {
             Console.Clear();
             Console.WriteLine();
@@ -168,7 +168,7 @@ namespace _6_cadastro_em_memória
                         InserirSerie();
                         break;
                     case "3":
-                        AlualizarSerie();
+                        AtualizarSerie();
                         break;
                     case "4":
                         ExcluirSerie();

@@ -1,0 +1,16 @@
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\bin\Debug\net5.0\0_primeiro_programa_dotnet.exe
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\bin\Debug\net5.0\0_primeiro_programa_dotnet.deps.json
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\bin\Debug\net5.0\0_primeiro_programa_dotnet.runtimeconfig.json
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\bin\Debug\net5.0\0_primeiro_programa_dotnet.runtimeconfig.dev.json
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\bin\Debug\net5.0\0_primeiro_programa_dotnet.dll
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\bin\Debug\net5.0\ref\0_primeiro_programa_dotnet.dll
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\bin\Debug\net5.0\0_primeiro_programa_dotnet.pdb
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\obj\Debug\net5.0\0_primeiro_programa_dotnet.csproj.AssemblyReference.cache
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\obj\Debug\net5.0\0_primeiro_programa_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\obj\Debug\net5.0\0_primeiro_programa_dotnet.AssemblyInfoInputs.cache
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\obj\Debug\net5.0\0_primeiro_programa_dotnet.AssemblyInfo.cs
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\obj\Debug\net5.0\0_primeiro_programa_dotnet.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\obj\Debug\net5.0\0_primeiro_programa_dotnet.dll
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\obj\Debug\net5.0\ref\0_primeiro_programa_dotnet.dll
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\obj\Debug\net5.0\0_primeiro_programa_dotnet.pdb
+D:\Workspace\dotnet\0_primeiro_programa_dotnet\obj\Debug\net5.0\0_primeiro_programa_dotnet.genruntimeconfig.cache
