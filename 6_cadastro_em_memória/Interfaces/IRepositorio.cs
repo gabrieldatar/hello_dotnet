@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace _6_cadastro_em_memória.Interfaces
 {
     public interface IRepositorio<T>
