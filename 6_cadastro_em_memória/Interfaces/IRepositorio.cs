@@ -6,7 +6,7 @@ namespace _6_cadastro_em_memória.Interfaces
     {
         List<T> Lista();
 
-        T getId(int id);
+        T RetornaPorId(int id);
 
         void Inserir(T objeto);
 

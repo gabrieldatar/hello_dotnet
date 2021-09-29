@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GhY6Z5ixX+pV32xUbZ5ifci1P0wfBqR43dFAjPihWa76HLzTHqrKbbfgO9iDgCOnS5lWjJ4gQrpU2RzyCIKgTA==",
+  "dgSpecHash": "eD6EbzsC0zumZumD2dQZbi0r9T296Mf+VuR3E/4SEeBpfIOQ7iMRwSWboKIuNAatTtCqw39cSzh8NUIYDQT33w==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\dotnet\\6_cadastro_em_memória\\6_cadastro_em_memória.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/gabriel/Documents/my_project/hello_dotnet/6_cadastro_em_memória/6_cadastro_em_memória.csproj",
+  "expectedPackageFiles": [
+    "/home/gabriel/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

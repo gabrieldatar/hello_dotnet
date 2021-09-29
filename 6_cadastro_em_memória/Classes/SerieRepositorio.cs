@@ -13,9 +13,10 @@ namespace _6_cadastro_em_memória
             return listaSerie;
         }
 
-        public Serie getId(int id)
+        public Serie RetornaPorId(int id)
         {
             return listaSerie[id];
+            
         }
 
         public void Inserir(Serie objeto)

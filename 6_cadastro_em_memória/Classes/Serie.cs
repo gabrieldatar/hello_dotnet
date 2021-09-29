@@ -63,7 +63,7 @@ namespace _6_cadastro_em_memória
             retorno+="Descrição: "+this.Descricao+Environment.NewLine;
             retorno+="Ano de Início: "+this.Ano+Environment.NewLine;
             retorno+="Excluido: "+this.Excluido;
-            return base.ToString();
+            return retorno;
         }
 
         public string getTitulo()

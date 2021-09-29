@@ -127,29 +127,54 @@ namespace _6_cadastro_em_memória
 
         private static void ExcluirSerie()
         {
+            var lista=repositorio.Lista();
+
             Console.Clear();
             Console.WriteLine();
             Console.WriteLine("Excluir a série");
             Console.Write("Digite o ID da série: ");
             int indiceSerie=int.Parse(Console.ReadLine());
 
-            repositorio.Excluir(indiceSerie);
-
-            Console.WriteLine("Série excluida.");
+            if(indiceSerie<lista.Count)
+            {
+                repositorio.Excluir(indiceSerie);
+                Console.WriteLine("Série excluida.");
+            }
+            else
+            {
+                Console.WriteLine("Série não cadastrada");
+            }
+            
         }
 
         private static void VisualizarSerie()
         {
+            var lista=repositorio.Lista();
+
+            if(lista.Count==0)
+            {
+                Console.Clear();
+                Console.WriteLine();
+                Console.WriteLine("Nenhuma série cadastrada.");
+                Console.ReadLine();
+                return;
+            }
+
             Console.Clear();
             Console.WriteLine();
             Console.WriteLine("Visualizar a série");
             Console.Write("Digite o ID da série: ");
             int indiceSerie=int.Parse(Console.ReadLine());
 
-            var serie=repositorio.getId(indiceSerie);
-
-            Console.WriteLine(serie);
-
+            if(indiceSerie<lista.Count)
+            {
+                Console.WriteLine(repositorio.RetornaPorId(indiceSerie));
+            }
+            else
+            {
+                Console.WriteLine("Série não cadastrada");
+            }
+            
             Console.ReadLine();
         }
 
@@ -191,3 +216,4 @@ namespace _6_cadastro_em_memória
         }
     }
 }
+
